@@ -28,3 +28,14 @@
 [12:23:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
 [12:23:52] [Server thread/INFO]: Time elapsed: 6700 ms
 [12:23:52] [Server thread/INFO]: Done (13.799s)! For help, type "help"
+[12:31:20] [Server thread/INFO]: Stopping the server
+[12:31:20] [Server thread/INFO]: Stopping server
+[12:31:20] [Server thread/INFO]: Saving players
+[12:31:20] [Server thread/INFO]: Saving worlds
+[12:31:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:31:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12:31:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12:31:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:31:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:31:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:31:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
