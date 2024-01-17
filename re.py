@@ -1,0 +1,5 @@
+f=open("/workspaces/MCshare/server/eula.txt",'r')
+content=f.read()
+content.replace("eula=false","eula=true")
+f.close()
+print(content)
