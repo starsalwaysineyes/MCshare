@@ -1,46 +1,53 @@
-[13:08:10] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[13:08:13] [ServerMain/INFO]: Loaded 7 recipes
-[13:08:13] [ServerMain/INFO]: Loaded 1271 advancements
-[13:08:14] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[13:08:14] [Server thread/INFO]: Loading properties
-[13:08:14] [Server thread/INFO]: Default game type: SURVIVAL
-[13:08:14] [Server thread/INFO]: Generating keypair
-[13:08:14] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:08:14] [Server thread/INFO]: Using epoll channel type
-[13:08:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:08:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:08:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:08:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:08:14] [Server thread/INFO]: Preparing level "world"
-[13:08:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:08:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:08:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:08:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:08:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:08:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:08:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:08:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:08:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:08:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:08:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:08:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:08:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:08:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:08:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:08:27] [Server thread/INFO]: Time elapsed: 7232 ms
-[13:08:27] [Server thread/INFO]: Done (12.672s)! For help, type "help"
-[13:08:39] [Server thread/INFO]: Aurora[/[0:0:0:0:0:0:0:1%0]:60836] logged in with entity id 140 at (58.238686882366345, 80.0, 396.93853958546623)
-[13:08:39] [Server thread/INFO]: Aurora joined the game
-[13:08:57] [Server thread/INFO]: Aurora lost connection: Disconnected
-[13:08:57] [Server thread/INFO]: Aurora left the game
-[13:09:01] [Server thread/INFO]: Stopping the server
-[13:09:01] [Server thread/INFO]: Stopping server
-[13:09:01] [Server thread/INFO]: Saving players
-[13:09:01] [Server thread/INFO]: Saving worlds
-[13:09:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[13:09:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[13:09:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[13:09:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:09:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:09:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:09:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:11:59] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:12:02] [ServerMain/INFO]: Loaded 7 recipes
+[13:12:02] [ServerMain/INFO]: Loaded 1271 advancements
+[13:12:03] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[13:12:03] [Server thread/INFO]: Loading properties
+[13:12:03] [Server thread/INFO]: Default game type: SURVIVAL
+[13:12:03] [Server thread/INFO]: Generating keypair
+[13:12:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:12:03] [Server thread/INFO]: Using epoll channel type
+[13:12:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:12:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:12:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:12:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:12:03] [Server thread/INFO]: Preparing level "world"
+[13:12:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:12:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:12:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:12:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:12:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:12:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:12:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:12:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:12:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:12:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:12:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:12:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:12:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:12:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:12:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:12:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:12:18] [Server thread/INFO]: Time elapsed: 7538 ms
+[13:12:18] [Server thread/INFO]: Done (14.530s)! For help, type "help"
+[13:12:28] [Server thread/INFO]: Aurora[/[0:0:0:0:0:0:0:1%0]:58016] logged in with entity id 132 at (52.95126403653906, 72.0, 416.0111405047905)
+[13:12:28] [Server thread/INFO]: Aurora joined the game
+[13:13:14] [Server thread/INFO]: Aurora was slain by Zombie
+[13:13:23] [Server thread/INFO]: Aurora was killed
+[13:13:23] [Server thread/INFO]: Killed Aurora
+[13:13:46] [Server thread/INFO]: Aurora was killed by Witch using magic
+[13:14:53] [Server thread/INFO]: Aurora was slain by Zombie
+[13:14:54] [Server thread/INFO]: Aurora has made the advancement [Monster Hunter]
+[13:16:46] [Server thread/INFO]: Aurora lost connection: Disconnected
+[13:16:46] [Server thread/INFO]: Aurora left the game
+[13:16:55] [Server thread/INFO]: Stopping the server
+[13:16:55] [Server thread/INFO]: Stopping server
+[13:16:55] [Server thread/INFO]: Saving players
+[13:16:55] [Server thread/INFO]: Saving worlds
+[13:16:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:17:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13:17:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13:17:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:17:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:17:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:17:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
